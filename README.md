@@ -3,9 +3,9 @@
 ##
 
 <h3>Stats</h3>
-<div align="center">
-  <a href="https://github.com/igorwanbarros" style="width:49%;float:left;"><img src="https://github-readme-stats.vercel.app/api?username=igorwanbarros&show_icons=true&theme=github_dark" width="40%" /></a>
-  <a href="https://github.com/igorwanbarros" style="width:49%;float:left;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorwanbarros&layout=compact&theme=github_dark" width="30%" /></a>
+<div>
+  <a href="https://github.com/igorwanbarros" style="width:49%;float:left;"><img src="https://github-readme-stats.vercel.app/api?username=igorwanbarros&show_icons=true&theme=github_dark" width="55%" /></a>
+  <a href="https://github.com/igorwanbarros" style="width:49%;float:left;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorwanbarros&layout=compact&theme=github_dark" width="35%" /></a>
 </div>
 
 ##
