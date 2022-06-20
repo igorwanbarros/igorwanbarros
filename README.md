@@ -2,12 +2,11 @@
 My name is Igor Wanderley, I'm a software developer, I'm from Brazil and I currently work from home.
 You can find me on:
 
-![https://gitlab.com/igorwanbarros](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
-![https://www.linkedin.com/in/igor-wanderley-barros-2b48b6128](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-![mailto:igorwanbarros@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
-![https://www.instagram.com/igorwanbarros](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
+[![](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/igorwanbarros)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-wanderley-barros-2b48b6128)
+[![](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:igorwanbarros@gmail.com)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/igorwanbarros)
 
-##
 
 ## 🔧 Technologies & Tools
 
